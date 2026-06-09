@@ -21,31 +21,41 @@
 
 ## 🌐 Connect With Me
 
-<p align="left"> <a href="https://github.com/yarramaddu-reddy-prasad-reddy" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/reddyprasadreddy" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:yarramaddureddyprasadreddy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="left">
+  <a href="https://github.com/yarramaddu-reddy-prasad-reddy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/reddyprasadreddy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yarramaddureddyprasadreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,java,mysql,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,java,mysql,git,github,vscode,aws" />
 </p>
 
 ---
 
+ 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yarramaddu-reddy-prasad-reddy&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yarramaddu-reddy-prasad-reddy&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=yarramaddu-reddy-prasad-reddy&theme=tokyonight"/>
 </p>
 
 ---
@@ -81,5 +91,9 @@
 * Secure a Software Engineering Role
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yarramaddu-reddy-prasad-reddy&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
